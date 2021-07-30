@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/gradient_splash</item>
+        <item name="colorPrimary">@color/orange_light</item>
+        <item name="colorPrimaryDark">@color/orange</item>
+        <item name="android:statusBarColor">@color/orange</item>
+    </style>
+</resources>
